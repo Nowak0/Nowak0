@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jakub 👋
 
-<!--
-**Nowak0/Nowak0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Gdańsk University of Technology interested in backend systems, machine learning and scalable software architecture.
+I enjoy building practical software solutions – from backend services and full-stack applications to AI systems and automation tools.
 
-Here are some ideas to get you started:
+Currently focused on developing strong software engineering foundations while exploring modern AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇵🇱 Based in Gdańsk, Poland
+
+---
+
+## 💻 Technologies
+
+**Languages**
+
+Java • Python • C++ • JavaScript • TypeScript • SQL
+
+**Frameworks & Tools**
+
+Spring Boot • Angular • REST API • Docker • Git
