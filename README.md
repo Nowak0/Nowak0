@@ -1,7 +1,6 @@
 # Hi, I'm Jakub 👋
 
-Computer Science student at Gdańsk University of Technology interested in backend systems, machine learning and scalable software architecture.
-I enjoy building practical software solutions – from backend services and full-stack applications to AI systems and automation tools.
+Computer Science student at Gdańsk University of Technology focused on machine learning, backend systems and scalable software architecture. I enjoy building practical solutions — from backend services and full-stack applications to ML systems and automation tools.
 
 🇵🇱 Based in Gdańsk, Poland
 
